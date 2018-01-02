@@ -10,14 +10,12 @@
     "MAIN_IMAGE" : "http://res.cloudinary.com/loristeeth/image/upload/c_scale,w_800/v1510175135/tm_big_logo_wxtnbt.png",
     "REPO_URL" : "https://api.github.com/repos/JWWeatherman/bitcoin_security_threat_model/readme",
     "STYLE" : {
-      // first page of doc
       "heading-page-background-color" : "#fff",
       "heading-page-h1-color" : "#2c3e50",
       "heading-page-h2-color" : "#2c3e50",
       "heading-page-h3-color" : "#f5922f",
       "heading-page-h4-color" : "#2c3e50",
       "heading-page-jumbotron-color" : "#2c3e50",
-      // defaults for all pages of doc
       "page-background-color" : "#fff",
       "page-color" : "#2c3e50",
       "page-h1-color" : "#f7931a",
@@ -25,10 +23,8 @@
       "page-h3-color" : "#2c3e50",
       "page-h4-color" : "#2c3e50",
       "page-bold-color" : "#2c3e50",
-      // page headers
       "page-page-header-background-color" : "#fff2ce",
       "page-page-header-color" : "#2c3e50",
-      // page footers
       "page-page-footer-background-color" : "#fff2ce",
       "page-page-footer-color" : "#f7931a"
     }
