@@ -44,14 +44,12 @@
     "MAIN_IMAGE" : "http://res.cloudinary.com/doohickey/image/upload/c_scale,w_800/v1514835923/human_vortex_nzhq0b.png",
     "REPO_URL" : "https://api.github.com/repos/JWWeatherman/human_threat_model/readme",
     "STYLE" : {
-      // first page of doc
       "heading-page-background-color" : "#fff",
       "heading-page-h1-color" : "#24292e",
       "heading-page-h2-color" : "#2c3e50",
       "heading-page-h3-color" : "#999999",
       "heading-page-h4-color" : "#2c3e50",
       "heading-page-jumbotron-color" : "#434343",
-      // defaults for all pages of doc
       "page-background-color" : "#fff",
       "page-color" : "#2c3e50",
       "page-h1-color" : "#f7931a",
@@ -59,10 +57,8 @@
       "page-h3-color" : "#2c3e50",
       "page-h4-color" : "#2c3e50",
       "page-bold-color" : "#2c3e50",
-      // page headers
       "page-page-header-background-color" : "#434343",
       "page-page-header-color" : "#fff",
-      // page footers
       "page-page-footer-background-color" : "#fff",
       "page-page-footer-color" : "#434343"
     }
