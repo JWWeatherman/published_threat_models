@@ -8,7 +8,45 @@
     "QUOTE" : "With e-currency based on cryptographic proof, without the need to trust a third party middleman, money can be secure - and transactions effortless.",
     "HASHTAGS" : "#bitcoin, #btc, #blockchain, #cryptocurrency, #forex, #crypto, #free",
     "MAIN_IMAGE" : "http://res.cloudinary.com/loristeeth/image/upload/c_scale,w_800/v1510175135/tm_big_logo_wxtnbt.png",
-    "REPO_URL" : "https://api.github.com/repos/JWWeatherman/bitcoin_security_threat_model/readme"
+    "REPO_URL" : "https://api.github.com/repos/JWWeatherman/bitcoin_security_threat_model/readme",
+    "style" : {
+      "headingPage" : {
+        "background-color" : "#fff",
+        "h1" : {
+          "color" : "#2c3e50"
+        },
+        "h3" : {
+          "color" : "#f5922f"
+        }
+      },
+      "page" : {
+        "background-color" : "#fff",
+        "color" : "#2c3e50",
+        "pageHeader" : {
+          "background-color" : "#fff2ce",
+          "color" : "#2c3e50"
+        },
+        "pageFooter" : {
+          "background-color" : "#fff2ce",
+          "color" : "#f7931a"
+        },
+        "h1" : {
+        "color" : "#f7931a"
+        },
+        "h2" : {
+          "color" : "#5b5b5b"
+        },
+        "h3" : {
+          "color" : "#2c3e50"
+        },
+        "h4" : {
+          "color" "#2c3e50":
+        },
+        "bold" : {
+          "color" : "#2c3e50"
+        }
+      }
+    }
   },
   "humanThreatModel": {
     "COMPANY_NAME" : "JW Weatherman",
@@ -19,6 +57,65 @@
     "QUOTE" : "The human threat model is intended to help humans better understand the threats to that they face and the tools available, and in active development, for defense.",
     "HASHTAGS" : "#bitcoin, #btc, #blockchain, #cryptocurrency, #Human, #freedom, #free",
     "MAIN_IMAGE" : "http://res.cloudinary.com/doohickey/image/upload/c_scale,w_800/v1514835923/human_vortex_nzhq0b.png",
-    "REPO_URL" : "https://api.github.com/repos/JWWeatherman/human_threat_model/readme"
+    "REPO_URL" : "https://api.github.com/repos/JWWeatherman/human_threat_model/readme",
+    "style" : {
+      "headingPage" : {
+        "background-color" : "#fff",
+        "h1" : {
+          "color" : "#24292e"
+        },
+        "h3" : {
+          "color" : "#999999"
+        },
+        "jumboTron" : {
+          "color" : "#434343"
+        }
+      },
+      "page" : {
+        "background-color" : "#fff",
+        "color" : "#2c3e50",
+        "pageHeader" : {
+          "background-color" : "#fff2ce",
+          "color" : "#2c3e50"
+        },
+        "pageFooter" : {
+          "background-color" : "#fff2ce",
+          "color" : "#f7931a"
+        },
+        "h1" : {
+        "color" : "#f7931a"
+        },
+        "h2" : {
+          "color" : "#5b5b5b"
+        },
+        "h3" : {
+          "color" : "#2c3e50"
+        },
+        "h4" : {
+          "color" "#2c3e50":
+        },
+        "bold" : {
+          "color" : "#2c3e50"
+        }
+      }
+    }
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
