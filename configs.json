@@ -17,6 +17,9 @@
         },
         "h3" : {
           "color" : "#f5922f"
+        },
+        "jumboTron" : {
+          "color" : "#2c3e50"
         }
       },
       "page" : {
