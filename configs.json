@@ -9,7 +9,7 @@
     "HASHTAGS" : "#bitcoin, #btc, #blockchain, #cryptocurrency, #forex, #crypto, #free",
     "MAIN_IMAGE" : "http://res.cloudinary.com/loristeeth/image/upload/c_scale,w_800/v1510175135/tm_big_logo_wxtnbt.png",
     "REPO_URL" : "https://api.github.com/repos/JWWeatherman/bitcoin_security_threat_model/readme",
-    "style" : {
+    "STYLE" : {
       "headingPage" : {
         "background-color" : "#fff",
         "h1" : {
@@ -58,7 +58,7 @@
     "HASHTAGS" : "#bitcoin, #btc, #blockchain, #cryptocurrency, #Human, #freedom, #free",
     "MAIN_IMAGE" : "http://res.cloudinary.com/doohickey/image/upload/c_scale,w_800/v1514835923/human_vortex_nzhq0b.png",
     "REPO_URL" : "https://api.github.com/repos/JWWeatherman/human_threat_model/readme",
-    "style" : {
+    "STYLE" : {
       "headingPage" : {
         "background-color" : "#fff",
         "h1" : {
