@@ -5,7 +5,7 @@
     "DESCRIPTION" : "A security review of the Bitcoin cryptocurrency",
     "TITLE" : "Bitcoin Threat Model",
     "FAVICON" : "http://res.cloudinary.com/loristeeth/image/upload/v1511128064/Small_btc_logo__y588lv.png",
-    "QUOTE" : "With e-currency based on cryptographic proof, without the need to trust a third party middleman, money can be secure - and transactions effortless.",
+    "QUOTE" : "No quote",
     "HASHTAGS" : "#bitcoin, #btc, #blockchain, #cryptocurrency, #forex, #crypto, #free",
     "MAIN_IMAGE" : "http://res.cloudinary.com/loristeeth/image/upload/c_scale,w_800/v1510175135/tm_big_logo_wxtnbt.png",
     "REPO_URL" : "https://api.github.com/repos/JWWeatherman/bitcoin_security_threat_model/readme",
@@ -59,6 +59,37 @@
       "page-page-footer-background-color" : "#fff",
       "page-page-footer-color" : "#434343",
       "page-page-footer-resources-color": "#434343"
+    }
+  },
+  "etheruemThreatModel": {
+    "COMPANY_NAME" : "JW Weatherman",
+    "PUBLISH_DATE" : "January 2018",
+    "DESCRIPTION" : "A security review of the Ethereum cryptocurrency",
+    "TITLE" : "Ethereum Threat Model",
+    "FAVICON" : "http://res.cloudinary.com/loristeeth/image/upload/v1511128064/Small_btc_logo__y588lv.png",
+    "QUOTE" : "No Quote",
+    "HASHTAGS" : "#bitcoin, #btc, #blockchain, #cryptocurrency, #forex, #crypto, #free",
+    "MAIN_IMAGE" : "http://res.cloudinary.com/loristeeth/image/upload/c_scale,w_800/v1510175135/tm_big_logo_wxtnbt.png",
+    "REPO_URL" : "https://api.github.com/repos/JWWeatherman/ethereum_security/readme",
+    "STYLE" : {
+      "heading-page-background-color" : "#fff",
+      "heading-page-h1-color" : "#2c3e50",
+      "heading-page-h2-color" : "#2c3e50",
+      "heading-page-h3-color" : "#f5922f",
+      "heading-page-h4-color" : "#2c3e50",
+      "heading-page-jumbotron-color" : "#2c3e50",
+      "page-background-color" : "#fff",
+      "page-color" : "#2c3e50",
+      "page-h1-color" : "#f7931a",
+      "page-h2-color" : "#5b5b5b",
+      "page-h3-color" : "#2c3e50",
+      "page-h4-color" : "#2c3e50",
+      "page-bold-color" : "#2c3e50",
+      "page-page-header-background-color" : "#fff2ce",
+      "page-page-header-color" : "#2c3e50",
+      "page-page-footer-background-color" : "#fff2ce",
+      "page-page-footer-color" : "#f7931a",
+      "page-page-footer-resources-color" : "#f7931a"
     }
   }
 }
