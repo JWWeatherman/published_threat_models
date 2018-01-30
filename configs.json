@@ -66,10 +66,10 @@
     "PUBLISH_DATE" : "January 2018",
     "DESCRIPTION" : "A security review of the Ethereum cryptocurrency",
     "TITLE" : "Ethereum Threat Model",
-    "FAVICON" : "http://res.cloudinary.com/loristeeth/image/upload/v1511128064/Small_btc_logo__y588lv.png",
+    "FAVICON" : "https://user-images.githubusercontent.com/32912678/35408498-5682d3bc-01dd-11e8-8e37-08abbde89976.png",
     "QUOTE" : "No Quote",
     "HASHTAGS" : "#bitcoin, #btc, #blockchain, #cryptocurrency, #forex, #crypto, #free",
-    "MAIN_IMAGE" : "http://res.cloudinary.com/loristeeth/image/upload/c_scale,w_800/v1510175135/tm_big_logo_wxtnbt.png",
+    "MAIN_IMAGE" : "https://user-images.githubusercontent.com/32912678/35408498-5682d3bc-01dd-11e8-8e37-08abbde89976.png",
     "REPO_URL" : "https://api.github.com/repos/JWWeatherman/ethereum_security/readme",
     "STYLE" : {
       "heading-page-background-color" : "#fff",
