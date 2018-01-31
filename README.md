@@ -45,6 +45,7 @@
 >    * A single H1 (Title)
 >    * A single H4 (Description)
 >    * Do not add anything else to this section
+>    * Must end with `---`
     
 #### 2. Introduction Section
 
@@ -76,6 +77,7 @@ Everything between the heading page and the table of contents.
  > * Requirements
  >   * Must contain at least one H1 
  >   * Rest is up to you
+ >   * Must end with `---`
  
  #### 3. Body Section
  
